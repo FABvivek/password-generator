@@ -8,7 +8,7 @@ A responsive and customizable Password Generator built using **HTML**, **CSS**, 
 
 ## 📸 Preview
 
-![Password Generator UI](https://user-images.githubusercontent.com/your-github-id/your-image.png) <!-- Optional: Add image from GitHub or Vercel -->
+![Password Generator UI]([https://user-images.githubusercontent.com/your-github-id/your-image.png](https://github.com/FABvivek/password-generator/issues/1#issue-3297264222)) <!-- Optional: Add image from GitHub or Vercel -->
 
 ---
 
